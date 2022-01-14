@@ -11,10 +11,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -44,7 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-I worked with flexbox and learned a little bit more how to use it.
+I have been working with Flexbox and have understood a little better how to use it.
 
 ## Author
 
