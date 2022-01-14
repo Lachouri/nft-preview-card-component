@@ -47,4 +47,4 @@ I have been working with Flexbox and have understood a little better how to use 
 
 - Website - [Ludivine ACHOURI](http://www.ludivineachouri.com/)
 - Frontend Mentor - [@Lachouri](https://www.frontendmentor.io/profile/Lachouri)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@LudivineAchouri](https://twitter.com/LudivineAchouri)
