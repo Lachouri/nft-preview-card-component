@@ -65,6 +65,7 @@ p {
   transition: 0.5s ease;
   border-radius: 10px;
   background-color: hsl(178, 100%, 50%, 40%);
+  cursor: pointer;
 }
 
 .overlay img {
